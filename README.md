@@ -1,2 +1,2 @@
 # hello-world
-first test repository
+Hi, l love computer system design. for me it's a real challenge to make very complex systems working...
